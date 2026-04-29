@@ -95,3 +95,20 @@ It covers all stages from raw data processing to insight generation and visualiz
 ## 🧪 How to Run  
 
 1. Install required libraries:
+2. Open the notebook in Jupyter/Colab  
+3. Run all cells sequentially  
+
+---
+
+## 🧠 Key Highlights  
+
+- End-to-end data science pipeline implemented  
+- Real-world dataset handling  
+- Feature engineering and dimensionality reduction  
+- Strong focus on visualization and insights  
+
+---
+
+## 📌 Note  
+
+> The notebook is structured step-by-step to ensure clarity, reproducibility, and alignment with the final report and dashboard.
